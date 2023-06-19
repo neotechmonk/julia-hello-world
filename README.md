@@ -30,3 +30,4 @@ More in this extension [here](julia-vscode.org)
 
 ## Hello World
 check out ```hello.jl```
+to run the first program ```julia hello.jl```
