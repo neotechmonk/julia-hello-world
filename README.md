@@ -19,3 +19,14 @@ sudo rm -f /usr/local/bin/julia
 
 sudo ln -s /Applications/Julia-[YOUR VERSION].app/Contents/Resources/julia/bin/julia /usr/local/bin/julia
 ```
+
+Test out julia REPL by typing `julia` into your terminal
+
+run ```print("julia")```
+
+## Setting up VS Code
+Install the extention _Julia_ 
+More in this extension [here](julia-vscode.org)
+
+## Hello World
+check out ```hello.jl```
